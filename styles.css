@@ -1,0 +1,48 @@
+/* 
+label = html, 
+.form-group = clasa, 
+#password = id de variabila
+*/
+
+h1 {
+    font-family: Cambria; 
+    size: 15pt;
+    background-color: aquamarine;
+    border: dotted 2px coral;
+    padding: 3px;
+    text-align: center;
+    width: 300;
+}
+
+.login {
+    margin: auto;
+    width: 300;
+    border: 5px dotted green;
+    padding: 15px;
+}
+
+label {
+    background-color: blue;
+    font-style:italic;
+    font-weight: bold;
+    color: white;
+    display: block;
+    padding: 5px;
+    text-align: center;
+    width: 240;
+  }
+
+.form-group {
+    border: 2px solid black;
+    padding: 5px;
+    margin: auto;
+    width: 255;
+  }
+
+#username {
+    width: 250;
+}
+
+#password {
+    width: 250;
+}
